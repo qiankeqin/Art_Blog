@@ -13,7 +13,7 @@
         </commentGenerator>    
         <!-- 数据库链接URL、用户名、密码 -->    
          <!--<jdbcConnection driverClass="com.mysql.jdbc.Driver" connectionURL="jdbc:mysql://localhost:3306/my_db?characterEncoding=utf8" userId="root" password="123456"> -->     
-        <jdbcConnection driverClass="com.mysql.jdbc.Driver" connectionURL="jdbc:mysql://localhost:3306/blog?characterEncoding=utf8" userId="root" password="3306">   
+        <jdbcConnection driverClass="com.mysql.jdbc.Driver" connectionURL="jdbc:mysql://localhost:3306/blog?characterEncoding=utf8" userId="root" password="123456">
         </jdbcConnection>    
         <javaTypeResolver>    
             <property name="forceBigDecimals" value="false" />    
